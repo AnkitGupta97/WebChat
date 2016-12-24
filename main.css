@@ -1,6 +1,16 @@
 .parea{
 width:400px;
-border: 10pxsolid #ddd;
+border: 10px solid #ddd;
 background-color:#ccc;
 margin:0 auto;
+}
+.cbutton{
+	display:block;
+	margin:10px 0px;
+	padding:10px 20px;
+	background-color:cornflowerblue;
+	color:#fff;
+	text-align: center;
+	text-decoration: none;
+	
 }

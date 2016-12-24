@@ -11,6 +11,9 @@
 <body>
 <div class="parea">
 <center><video id="video" width="400" height ="300" ></video></center>
+<a href="#" id="capture" class="cbutton">Take Photo</a>
+<canvas id="canvas" width="400" height="300" hidden></canvas>
+<img id="photo" src="http://placekitten.com/g/400/300" alt="photo of you">
 </div>
 </body>
 </html>
